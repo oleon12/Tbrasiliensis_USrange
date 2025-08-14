@@ -8,8 +8,6 @@ The main data used in this article is [Occurences_Tb_TempPeriods_FINAL.csv](http
 - **Temperature:** All temperature variables used in the study. The average annual temperature for each year (*TempAvgY2*), the average temperature of the warmest months (*Temp.AvgW2*), and the coldest months each year (*Temp.AvgC2*). Furthermore, the same information extracted for each pixel given the coordinates of each point (*TempAvgY*, *TempAvgW*, and *TempAvgC*).
 
 </br>
-
----
 ____
 
 <p align="center">
