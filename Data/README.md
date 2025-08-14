@@ -7,5 +7,5 @@ The main data used in this article is [Occurences_Tb_TempPeriods_FINAL.csv](http
 - **Time:** The date where the record was taken. This inclued *Date*, *Year*, *Month*, and *Day*. Likewise, this information includes the period time or decade of each point (*cat*) which is also represetend by a sequences of numbers (*cat2*). 
 
 <p align="center">
-  <img src="https://github.com/oleon12/Tbrasiliensis_USrange/edit/main/Data/Table_Head.png" alt="Data head" width="600">
+  <img src="Table_Head.png" alt="Data head" width="600">
 </p>
