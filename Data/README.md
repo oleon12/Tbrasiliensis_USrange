@@ -6,6 +6,8 @@ The main data used in this article is [Occurences_Tb_TempPeriods_FINAL.csv](http
 - **Space:** The coordinates colums in decimal format (*Lon*, *Lat*), along with the country (*Country*), and the specific region (East, West, and Middel U.S.) where each point overlap (*Region*)
 - **Time:** The date where the record was taken. This inclued *Date*, *Year*, *Month*, and *Day*. Likewise, this information includes the period time or decade of each point (*cat*) which is also represetend by a sequences of numbers (*cat2*). 
 
+</br>
+
 <p align="center">
-  <img src="Table_Head.png" alt="Data head" width="600">
+  <img src="Table_Head.png" alt="Data head" width="1500">
 </p>
