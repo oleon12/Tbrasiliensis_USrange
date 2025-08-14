@@ -178,7 +178,7 @@ centroid_frame <- data.frame(ES  = centroid_distES,
 
 centroid_frame
 
-write.csv(centroid_frame, file = "Data/Centroids_DataYEARS.csv", quote = F, row.names = F)
+write.csv(centroid_frame, file = "Data/Centroids_Data.csv", quote = F, row.names = F)
 
 #################
 
@@ -202,8 +202,8 @@ c_coords <- c_coords[-1,]
 c_coords <- as.data.frame(cbind(Year=rep(1:length(Series), each=3), c_coords, Region=rep(c("ES","MI","WE"), length(Series))))
 c_coords
 
-#write.csv(c_coords, file = "Data/Centroids_Data_Coords.csv", quote = F, row.names = F)
-write.csv(c_coords, file = "Data/Centroids_Data_CoordsYEARS.csv", quote = F, row.names = F)
+write.csv(c_coords, file = "Data/Centroids_Data_Coords.csv", quote = F, row.names = F)
+#write.csv(c_coords, file = "Data/Centroids_Data_CoordsYEARS.csv", quote = F, row.names = F)
 
 
 ###############################################################################
