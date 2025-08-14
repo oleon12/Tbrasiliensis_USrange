@@ -14,3 +14,5 @@ The main data used in this article is [Occurences_Tb_TempPeriods_FINAL.csv](http
 <p align="center">
   <img src="Table_Head.png" alt="Data head" width="1500">
 </p>
+
+---
