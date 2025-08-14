@@ -16,3 +16,5 @@ The main data used in this article is [Occurences_Tb_TempPeriods_FINAL.csv](http
 </p>
 
 ---
+
+*Additional columns not noted above can be deprecated. They were created during the pre-analysis phase and were never used in the final version.*
