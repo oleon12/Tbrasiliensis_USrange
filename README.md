@@ -8,7 +8,7 @@ This repository contains the data and R scripts used in the study
 ---
 
 <p align="center">
-  <img src="Img.png">
+  <img src="Img.png" width="75%">
 </p>
 
 ---
