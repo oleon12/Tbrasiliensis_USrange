@@ -9,3 +9,5 @@ here you'll find all the R-scripts used in the study.
 <b>3.</b> [Graphics_GAM_Surfaces.R](https://github.com/oleon12/Tbrasiliensis_USrange/edit/main/R/Graphics_GAM_Surfaces.R): This script generates the GAM surface prediction plots used for the Fig. 
 
 <b>4.</b> [Graphics.R](https://github.com/oleon12/Tbrasiliensis_USrange/edit/main/R/Graphics.R): This script generates the density plot of latitude and latitude through time shown in Fig. 2.
+
+<b>5.</b> [Spectrogram_Plot.R](https://github.com/oleon12/Tbrasiliensis_USrange/blob/main/R/Spectrogram_Plot.R): This script generates the spectrogram plots from the WAV files.
