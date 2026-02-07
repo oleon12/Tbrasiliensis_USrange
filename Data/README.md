@@ -23,6 +23,7 @@ The main data used in this article is [Occurences_Tb_TempPeriods_FINAL.csv](http
 Additionally, the results from the centroid analysis are included here. [Centroids_Data.csv](Centroids_Data.csv) corresponds to the normalized distance between two consecutive centroids. These values are evaluated for each region (East, West, and Middle U.S.), while the U.S.-wide results are in [Centroids_Data_US.csv](Centroids_Data_US.csv). We also include the coordinates for each period of time in the files ending with [_Coords.csv](Centroids_Data_Coords.csv) and [_CoordsUS.csv](Centroids_Data_CoordsUS.csv).
 
 <br>
+
 ## WAV files
 
 In this [folder](https://github.com/oleon12/Tbrasiliensis_USrange/tree/main/Data/WAV)  you'll find the WAV audio files used to create the Figure 2.
