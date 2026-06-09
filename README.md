@@ -1,4 +1,5 @@
 # Warming temperatures lead to range expansion of the Brazilian free-tailed bat (<i>Tadarida brasiliensis</i>) in North America.
+### [Omar Daniel Leon-Alvarado](https://www.researchgate.net/profile/Omar-Leon-Alvarado?ev=hdr_xprf); [Kamil Kozlowski], [J. Angel Soto-Centeno](https://www.researchgate.net/profile/J-Soto-Centeno)
 
 This repository contains the data and R scripts used in the study
 
