@@ -12,3 +12,7 @@ This repository contains the data and R scripts used in the study
 </p>
 
 ---
+
+<p align = "center">
+  <img src="Centroids_Move.gif", width="75%">
+</p>
