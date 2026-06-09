@@ -1,3 +1,7 @@
+.big-text {
+  font-size: 18px;
+}
+
 # Warming temperatures lead to range expansion of the Brazilian free-tailed bat (<i>Tadarida brasiliensis</i>) in North America.
 #### [Omar Daniel Leon-Alvarado](https://www.researchgate.net/profile/Omar-Leon-Alvarado?ev=hdr_xprf); Kamil Kozlowski, [J. Angel Soto-Centeno](https://www.researchgate.net/profile/J-Soto-Centeno)
 
@@ -13,7 +17,7 @@ This repository contains the data and R scripts used in the study
 </p>
 
 ---
-<p align = "center;" style="font-size: 18px;">
+<p align = "center;" class="big-text">
     <b>Spatiotemporal dynamics of the geographic centroid of Tadarida brasiliensis across the U.S. and three regional divisions (East, Middle, West).</b>
 </p>
 <br>
