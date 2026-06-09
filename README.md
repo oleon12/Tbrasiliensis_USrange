@@ -17,7 +17,7 @@ This repository contains the data and R scripts used in the study
 </p>
 
 ---
-<p align = "center;" class="big-text">
+<p align = "center" class="big-text">
     <b>Spatiotemporal dynamics of the geographic centroid of Tadarida brasiliensis across the U.S. and three regional divisions (East, Middle, West).</b>
 </p>
 <br>
